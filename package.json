@@ -1,6 +1,6 @@
 {
   "name": "tigervnc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TigerVNC binaries as a node module",
   "main": "index.js",
   "scripts": {
